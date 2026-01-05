@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/api.ts","./src/main.tsx","./src/vite-env.d.ts","./src/components/HistoricalChart.tsx","./src/components/LiveStream.tsx","./src/components/SymbolForm.tsx","./src/components/TradeTape.tsx"],"version":"5.7.3"}

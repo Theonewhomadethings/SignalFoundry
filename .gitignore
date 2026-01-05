@@ -1,0 +1,29 @@
+# Environment files with secrets
+.env
+.env.local
+.env.*.local
+
+# Rust
+/target/
+Cargo.lock
+
+# Node/Frontend
+ui/node_modules/
+ui/dist/
+ui/.vite/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+#claude 
+.claude
